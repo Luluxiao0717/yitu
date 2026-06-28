@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Yibo Tu
+# Hi there 👋 I'm Yi Tu
 
 I am a Computer Science student interested in **AI applications, backend development, and enterprise-level RAG systems**.
 
